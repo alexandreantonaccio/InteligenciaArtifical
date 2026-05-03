@@ -94,7 +94,7 @@ wrap_occupied(Pos, occupied(Pos)).
 % Resolve o problema usando Aprofundamento Iterativo (Iterative Deepening) para encontrar o plano mais curto.
 resolver(ListaOnInicial, Metas, Plano) :-
     gerar_estado_completo(ListaOnInicial, EstadoIni),
-    format('A procurar plano...~n', []),
+    format('Procurando plano...~n', []),
     % Limite maximo de profundidade (0 a 8 movimentos)
     between(0, 8, Limite),
     length(Plano, Limite), 
