@@ -1,0 +1,1 @@
+mundo_dos_blocos(estado1, meta_a).
