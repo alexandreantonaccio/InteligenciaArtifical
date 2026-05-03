@@ -1,5 +1,5 @@
 # 1º Trabalho Prático da disciplina de Inteligência Artificial
-Teste-Fabrício
+
 **Professor: Edjard Mota**
 
 **Integrantes**
