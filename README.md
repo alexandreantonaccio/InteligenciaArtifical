@@ -4,9 +4,9 @@
 
 **Integrantes**
   - Alexandre Antonaccio Senna
-  - Tiago
-  - Fabricio
-  - Jurandy
+  - Fabricio Lessa Lorenzi Filho
+  - Jurandy Alves Nogueira Junior
+  - Tiago Rodrigues Bezerra
 
 # Representação  do Conhecimento
 **2.1. O Espaço e os Blocos**
