@@ -3,7 +3,7 @@
 **Professor: Edjard Mota**
 
 **Integrantes**
-  - Alexandre Antonaccio Senna teste
+  - Alexandre Antonaccio Senna 
   - Fabricio Lessa Lorenzi Filho
   - Jurandy Alves Nogueira Junior
   - Tiago Rodrigues Bezerra
