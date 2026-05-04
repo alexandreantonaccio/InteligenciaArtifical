@@ -1,4 +1,4 @@
-# 1º Trabalho Prático da disciplina de Inteligência Artificial
+# 1º Trabalho Prático da disciplina de Inteligência Artificia
 
 **Professor: Edjard Mota**
 
