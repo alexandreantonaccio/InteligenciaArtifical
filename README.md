@@ -80,7 +80,7 @@ Para resolver, aplicamos uma otimização massiva: Forward Search guiado por Ite
 
 # 5.Execução do Código
 
-Para testar as situações requeridas pelo exercício, foram predefinidas as situações descritas na chamada do trabalho.
+Para testar as situações requeridas pelo exercício, foram predefinidas as situações descritas na chamada do trabalho de IA.
 
 ```bash
 % Carregando o código
